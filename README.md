@@ -30,3 +30,7 @@ limit how deep can your query be nested. for example, if an entity has one-to-ma
 ### Binding
 
 bind a query to an object/struct.
+
+### Directive
+
+similar to annotation which allow you to define extra config (e.g., authorization). for example, only admin role can query/update/remove.
